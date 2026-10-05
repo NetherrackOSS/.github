@@ -1,6 +1,12 @@
-# NetherrackOSS
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
+    <img alt="Netherrack Logo" src="/logo-light.png" width="75%">
+  </picture>
+</p>
 
-**Open-source Minecraft server software and related projects.**
+<p align="center"><b>Open source server software for Minecraft: Bedrock Edition written in Java</b></p>
 
 NetherrackOSS is an open-source organization focused on building experimental, community-driven software for **Minecraft: Bedrock Edition**.
 
